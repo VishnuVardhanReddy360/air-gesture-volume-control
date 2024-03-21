@@ -1,10 +1,10 @@
-step-1: install the below packages:
+#step-1: install the below packages:
 pip install opencv-python
 pip install mediapipe
 pip install comtypes
 pip install pycaw
 
-step-2 now import the below libraries:
+#step-2 now import the below libraries:
 import cv2
 import mediapipe as mp
 import math
